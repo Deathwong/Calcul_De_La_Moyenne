@@ -1,0 +1,23 @@
+.noteDiv{
+    margin: auto;
+    background-color: cornflowerblue;
+    width: 500px;
+    height: 400px;
+    padding: 8px;
+    position: relative;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.divInput{
+    margin: 5px;
+}
+
+.tableMoyenne{
+    border: 1px solid black;
+}
+
+.contourCellule{
+    border: 1px solid black;
+}
